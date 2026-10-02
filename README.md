@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Atharv Vhanalkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -49,3 +55,8 @@
 [![](https://komarev.com/ghpvc/?username=AtharvVhanalkar&icon=4&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+<!-- Snake Game Repo View -->
+
