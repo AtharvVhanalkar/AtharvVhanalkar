@@ -51,12 +51,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AtharvVhanalkar&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=AtharvVhanalkar&icon=4&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-<!-- Snake Game Repo View -->
-
