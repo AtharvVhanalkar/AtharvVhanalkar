@@ -5,13 +5,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Atharv Vhanalkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvvhanalkar&label=Profile%20views&color=0e75b6&style=flat" alt="atharvvhanalkar" /> </p>
 
 - 🔭 I’m currently working on [Notes App](https://github.com/AtharvVhanalkar/Notes-app)
 
-- 🌱 I’m currently learning **Python and HTML**
+- 🌱 I’m currently learning **Python, HTML, CSS and Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtharvVhanalkar](https://github.com/AtharvVhanalkar)
 
